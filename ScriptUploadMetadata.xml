@@ -25,5 +25,6 @@
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name=".git\" Filter="1" />
+    <FileEntry Name="rrayudu_SRLGitPOC\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>
